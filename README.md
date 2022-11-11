@@ -1,7 +1,7 @@
 # Usage in the night
 
-## `save-html.sh`
+## `save-file.sh`
 
 ```
-$ ./save-html.sh https://www.oxygenisflowing.com/ contents/www.oxygenisflowing.com index.html
+$ ./save-file.sh https://www.oxygenisflowing.com/ contents/www.oxygenisflowing.com index.html
 ```
