@@ -16,7 +16,6 @@ fi
 
 echo $dirToSave$fileNameToSave
 
-# mkdir -p $dirToSave
-# # curl $url > $dirToSave/$fileNameToSave
-# echo $dirToSave/$fileNameToSave
-# echo $fileNameToSave
+mkdir -p $dirToSave
+curl $url > $dirToSave$fileNameToSave
+
